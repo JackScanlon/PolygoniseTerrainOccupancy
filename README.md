@@ -8,7 +8,9 @@ Lua implementation of the Marching Cubes algorithm to polygonise the 3 dimension
 Download the main.lua file and insert into your environment as a module.
 
 **Documentation**
+
 Usage and arguments are as follows:
+
 ```lua
   local marching = require(main)
   --[[
