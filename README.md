@@ -4,8 +4,11 @@
 Lua implementation of the Marching Cubes algorithm to polygonise the 3 dimensional occupancy grid returned from the *ReadVoxels* method.
 
 ## Usage
+
 **Installation**
+
 Download the main.lua file and insert into your environment as a module.
+
 
 **Documentation**
 
