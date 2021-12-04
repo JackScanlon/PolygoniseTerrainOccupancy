@@ -44,7 +44,7 @@ Usage and arguments are as follows:
 
 Chaining is supported as follows:
 ```lua
-	local min, max = Vector3.new(0, 0, 0), Vector3.new(128, 128, 128)
-	local res = marching:setIsolevel(0):queryTerrain(min, max):getResults()
+  local min, max = Vector3.new(0, 0, 0), Vector3.new(128, 128, 128)
+  local res = marching:setIsolevel(0):queryTerrain(min, max):getResults()
   print(res)
 ```
